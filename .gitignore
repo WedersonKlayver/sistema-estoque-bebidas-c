@@ -1,0 +1,11 @@
+# Executaveis e arquivos de compilacao
+*.exe
+*.o
+*.out
+output/
+
+# Dados gerados pelo programa
+estoque_bebidas.txt
+
+# VS Code
+.vscode/
