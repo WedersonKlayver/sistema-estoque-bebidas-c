@@ -3,7 +3,7 @@
 Projeto I da disciplina de Estrutura de Dados (EDA) — IFBA, 2026.2.
 Sistema de controle de estoque em linguagem C, executado no terminal.
 
-**Autores:** Wederson e _(nome da dupla)_
+**Autores:** Wederson 
 
 ## O que o sistema faz
 
